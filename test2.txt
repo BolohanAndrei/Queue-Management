@@ -1,0 +1,2320 @@
+Time: 0
+Waiting Clients:
+Client ID: 14, Arrival Time: 2, Service Time: 6
+Client ID: 11, Arrival Time: 3, Service Time: 7
+Client ID: 17, Arrival Time: 5, Service Time: 1
+Client ID: 20, Arrival Time: 6, Service Time: 6
+Client ID: 21, Arrival Time: 6, Service Time: 5
+Client ID: 46, Arrival Time: 6, Service Time: 4
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 1
+Waiting Clients:
+Client ID: 14, Arrival Time: 2, Service Time: 6
+Client ID: 11, Arrival Time: 3, Service Time: 7
+Client ID: 17, Arrival Time: 5, Service Time: 1
+Client ID: 20, Arrival Time: 6, Service Time: 6
+Client ID: 21, Arrival Time: 6, Service Time: 5
+Client ID: 46, Arrival Time: 6, Service Time: 4
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 2
+Waiting Clients:
+Client ID: 11, Arrival Time: 3, Service Time: 7
+Client ID: 17, Arrival Time: 5, Service Time: 1
+Client ID: 20, Arrival Time: 6, Service Time: 6
+Client ID: 21, Arrival Time: 6, Service Time: 5
+Client ID: 46, Arrival Time: 6, Service Time: 4
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 14, Arrival Time: 2, Service Time: 6
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 3
+Waiting Clients:
+Client ID: 17, Arrival Time: 5, Service Time: 1
+Client ID: 20, Arrival Time: 6, Service Time: 6
+Client ID: 21, Arrival Time: 6, Service Time: 5
+Client ID: 46, Arrival Time: 6, Service Time: 4
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 14, Arrival Time: 2, Service Time: 5
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 7
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 4
+Waiting Clients:
+Client ID: 17, Arrival Time: 5, Service Time: 1
+Client ID: 20, Arrival Time: 6, Service Time: 6
+Client ID: 21, Arrival Time: 6, Service Time: 5
+Client ID: 46, Arrival Time: 6, Service Time: 4
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 14, Arrival Time: 2, Service Time: 4
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 6
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 5
+Waiting Clients:
+Client ID: 20, Arrival Time: 6, Service Time: 6
+Client ID: 21, Arrival Time: 6, Service Time: 5
+Client ID: 46, Arrival Time: 6, Service Time: 4
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 14, Arrival Time: 2, Service Time: 3
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 5
+
+Queue 3:
+Client ID: 17, Arrival Time: 5, Service Time: 1
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 6
+Waiting Clients:
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 14, Arrival Time: 2, Service Time: 2
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 4
+
+Queue 3:
+Client ID: 20, Arrival Time: 6, Service Time: 6
+
+Queue 4:
+Client ID: 21, Arrival Time: 6, Service Time: 5
+
+Queue 5:
+Client ID: 46, Arrival Time: 6, Service Time: 4
+
+
+Time: 7
+Waiting Clients:
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 14, Arrival Time: 2, Service Time: 1
+Client ID: 25, Arrival Time: 7, Service Time: 3
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 3
+Client ID: 27, Arrival Time: 7, Service Time: 4
+
+Queue 3:
+Client ID: 20, Arrival Time: 6, Service Time: 5
+
+Queue 4:
+Client ID: 21, Arrival Time: 6, Service Time: 4
+
+Queue 5:
+Client ID: 46, Arrival Time: 6, Service Time: 3
+
+
+Time: 8
+Waiting Clients:
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 25, Arrival Time: 7, Service Time: 3
+Client ID: 15, Arrival Time: 8, Service Time: 2
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 2
+Client ID: 27, Arrival Time: 7, Service Time: 4
+
+Queue 3:
+Client ID: 20, Arrival Time: 6, Service Time: 5
+
+Queue 4:
+Client ID: 21, Arrival Time: 6, Service Time: 4
+
+Queue 5:
+Client ID: 46, Arrival Time: 6, Service Time: 2
+Client ID: 42, Arrival Time: 8, Service Time: 7
+
+
+Time: 9
+Waiting Clients:
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 6, Arrival Time: 10, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 25, Arrival Time: 7, Service Time: 2
+Client ID: 15, Arrival Time: 8, Service Time: 2
+
+Queue 2:
+Client ID: 11, Arrival Time: 3, Service Time: 1
+Client ID: 27, Arrival Time: 7, Service Time: 4
+
+Queue 3:
+Client ID: 20, Arrival Time: 6, Service Time: 3
+
+Queue 4:
+Client ID: 21, Arrival Time: 6, Service Time: 2
+Client ID: 23, Arrival Time: 9, Service Time: 1
+
+Queue 5:
+Client ID: 46, Arrival Time: 6, Service Time: 1
+Client ID: 42, Arrival Time: 8, Service Time: 7
+
+
+Time: 10
+Waiting Clients:
+Client ID: 39, Arrival Time: 11, Service Time: 4
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 25, Arrival Time: 7, Service Time: 1
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 3, Arrival Time: 10, Service Time: 4
+
+Queue 2:
+Client ID: 27, Arrival Time: 7, Service Time: 4
+
+Queue 3:
+Client ID: 20, Arrival Time: 6, Service Time: 2
+Client ID: 6, Arrival Time: 10, Service Time: 1
+
+Queue 4:
+Client ID: 21, Arrival Time: 6, Service Time: 1
+Client ID: 23, Arrival Time: 9, Service Time: 1
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 7
+
+
+Time: 11
+Waiting Clients:
+Client ID: 29, Arrival Time: 12, Service Time: 6
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 15, Arrival Time: 8, Service Time: 2
+Client ID: 3, Arrival Time: 10, Service Time: 4
+
+Queue 2:
+Client ID: 27, Arrival Time: 7, Service Time: 3
+
+Queue 3:
+Client ID: 20, Arrival Time: 6, Service Time: 1
+Client ID: 6, Arrival Time: 10, Service Time: 1
+
+Queue 4:
+Client ID: 23, Arrival Time: 9, Service Time: 1
+Client ID: 39, Arrival Time: 11, Service Time: 4
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 6
+
+
+Time: 12
+Waiting Clients:
+Client ID: 8, Arrival Time: 13, Service Time: 5
+Client ID: 48, Arrival Time: 13, Service Time: 5
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 15, Arrival Time: 8, Service Time: 1
+Client ID: 3, Arrival Time: 10, Service Time: 4
+
+Queue 2:
+Client ID: 27, Arrival Time: 7, Service Time: 2
+Client ID: 29, Arrival Time: 12, Service Time: 6
+
+Queue 3:
+Client ID: 6, Arrival Time: 10, Service Time: 1
+
+Queue 4:
+Client ID: 39, Arrival Time: 11, Service Time: 4
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 5
+
+
+Time: 13
+Waiting Clients:
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 10, Service Time: 4
+Client ID: 49, Arrival Time: 13, Service Time: 2
+
+Queue 2:
+Client ID: 27, Arrival Time: 7, Service Time: 1
+Client ID: 29, Arrival Time: 12, Service Time: 6
+
+Queue 3:
+Client ID: 8, Arrival Time: 13, Service Time: 5
+
+Queue 4:
+Client ID: 39, Arrival Time: 11, Service Time: 3
+Client ID: 48, Arrival Time: 13, Service Time: 5
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 4
+
+
+Time: 14
+Waiting Clients:
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 16, Arrival Time: 15, Service Time: 7
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 10, Service Time: 3
+Client ID: 49, Arrival Time: 13, Service Time: 2
+
+Queue 2:
+Client ID: 29, Arrival Time: 12, Service Time: 6
+
+Queue 3:
+Client ID: 8, Arrival Time: 13, Service Time: 4
+
+Queue 4:
+Client ID: 39, Arrival Time: 11, Service Time: 2
+Client ID: 48, Arrival Time: 13, Service Time: 5
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 3
+
+
+Time: 15
+Waiting Clients:
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 10, Service Time: 2
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 16, Arrival Time: 15, Service Time: 7
+
+Queue 2:
+Client ID: 29, Arrival Time: 12, Service Time: 5
+Client ID: 38, Arrival Time: 15, Service Time: 3
+
+Queue 3:
+Client ID: 8, Arrival Time: 13, Service Time: 3
+Client ID: 7, Arrival Time: 15, Service Time: 4
+
+Queue 4:
+Client ID: 39, Arrival Time: 11, Service Time: 1
+Client ID: 48, Arrival Time: 13, Service Time: 5
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 2
+Client ID: 1, Arrival Time: 15, Service Time: 3
+
+
+Time: 16
+Waiting Clients:
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 10, Service Time: 1
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 16, Arrival Time: 15, Service Time: 7
+
+Queue 2:
+Client ID: 29, Arrival Time: 12, Service Time: 4
+Client ID: 38, Arrival Time: 15, Service Time: 3
+
+Queue 3:
+Client ID: 8, Arrival Time: 13, Service Time: 2
+Client ID: 7, Arrival Time: 15, Service Time: 4
+
+Queue 4:
+Client ID: 48, Arrival Time: 13, Service Time: 5
+
+Queue 5:
+Client ID: 42, Arrival Time: 8, Service Time: 1
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+
+
+Time: 17
+Waiting Clients:
+Client ID: 10, Arrival Time: 18, Service Time: 6
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 49, Arrival Time: 13, Service Time: 2
+Client ID: 16, Arrival Time: 15, Service Time: 7
+
+Queue 2:
+Client ID: 29, Arrival Time: 12, Service Time: 3
+Client ID: 38, Arrival Time: 15, Service Time: 3
+
+Queue 3:
+Client ID: 8, Arrival Time: 13, Service Time: 1
+Client ID: 7, Arrival Time: 15, Service Time: 4
+
+Queue 4:
+Client ID: 48, Arrival Time: 13, Service Time: 4
+
+Queue 5:
+Client ID: 1, Arrival Time: 15, Service Time: 3
+Client ID: 24, Arrival Time: 16, Service Time: 1
+
+
+Time: 18
+Waiting Clients:
+Client ID: 36, Arrival Time: 19, Service Time: 6
+Client ID: 45, Arrival Time: 19, Service Time: 7
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 49, Arrival Time: 13, Service Time: 1
+Client ID: 16, Arrival Time: 15, Service Time: 7
+
+Queue 2:
+Client ID: 29, Arrival Time: 12, Service Time: 2
+Client ID: 38, Arrival Time: 15, Service Time: 3
+
+Queue 3:
+Client ID: 7, Arrival Time: 15, Service Time: 4
+Client ID: 50, Arrival Time: 18, Service Time: 4
+
+Queue 4:
+Client ID: 48, Arrival Time: 13, Service Time: 3
+Client ID: 10, Arrival Time: 18, Service Time: 6
+
+Queue 5:
+Client ID: 1, Arrival Time: 15, Service Time: 2
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 12, Arrival Time: 18, Service Time: 2
+
+
+Time: 19
+Waiting Clients:
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 7
+
+Queue 2:
+Client ID: 29, Arrival Time: 12, Service Time: 1
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 36, Arrival Time: 19, Service Time: 6
+
+Queue 3:
+Client ID: 7, Arrival Time: 15, Service Time: 3
+Client ID: 50, Arrival Time: 18, Service Time: 4
+
+Queue 4:
+Client ID: 48, Arrival Time: 13, Service Time: 2
+Client ID: 10, Arrival Time: 18, Service Time: 6
+
+Queue 5:
+Client ID: 1, Arrival Time: 15, Service Time: 1
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 45, Arrival Time: 19, Service Time: 7
+
+
+Time: 20
+Waiting Clients:
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 6
+
+Queue 2:
+Client ID: 38, Arrival Time: 15, Service Time: 3
+Client ID: 36, Arrival Time: 19, Service Time: 6
+
+Queue 3:
+Client ID: 7, Arrival Time: 15, Service Time: 2
+Client ID: 50, Arrival Time: 18, Service Time: 4
+
+Queue 4:
+Client ID: 48, Arrival Time: 13, Service Time: 1
+Client ID: 10, Arrival Time: 18, Service Time: 6
+
+Queue 5:
+Client ID: 24, Arrival Time: 16, Service Time: 1
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 45, Arrival Time: 19, Service Time: 7
+
+
+Time: 21
+Waiting Clients:
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 5
+Client ID: 32, Arrival Time: 21, Service Time: 1
+
+Queue 2:
+Client ID: 38, Arrival Time: 15, Service Time: 2
+Client ID: 36, Arrival Time: 19, Service Time: 6
+
+Queue 3:
+Client ID: 7, Arrival Time: 15, Service Time: 1
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 33, Arrival Time: 21, Service Time: 5
+
+Queue 4:
+Client ID: 10, Arrival Time: 18, Service Time: 6
+
+Queue 5:
+Client ID: 12, Arrival Time: 18, Service Time: 2
+Client ID: 45, Arrival Time: 19, Service Time: 7
+
+
+Time: 22
+Waiting Clients:
+Client ID: 26, Arrival Time: 23, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 4
+Client ID: 32, Arrival Time: 21, Service Time: 1
+
+Queue 2:
+Client ID: 38, Arrival Time: 15, Service Time: 1
+Client ID: 36, Arrival Time: 19, Service Time: 6
+
+Queue 3:
+Client ID: 50, Arrival Time: 18, Service Time: 4
+Client ID: 33, Arrival Time: 21, Service Time: 5
+
+Queue 4:
+Client ID: 10, Arrival Time: 18, Service Time: 5
+
+Queue 5:
+Client ID: 12, Arrival Time: 18, Service Time: 1
+Client ID: 45, Arrival Time: 19, Service Time: 7
+
+
+Time: 23
+Waiting Clients:
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 3
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 26, Arrival Time: 23, Service Time: 4
+
+Queue 2:
+Client ID: 36, Arrival Time: 19, Service Time: 6
+
+Queue 3:
+Client ID: 50, Arrival Time: 18, Service Time: 3
+Client ID: 33, Arrival Time: 21, Service Time: 5
+
+Queue 4:
+Client ID: 10, Arrival Time: 18, Service Time: 4
+Client ID: 30, Arrival Time: 23, Service Time: 3
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 7
+
+
+Time: 24
+Waiting Clients:
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 2
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 26, Arrival Time: 23, Service Time: 4
+
+Queue 2:
+Client ID: 36, Arrival Time: 19, Service Time: 5
+
+Queue 3:
+Client ID: 50, Arrival Time: 18, Service Time: 2
+Client ID: 33, Arrival Time: 21, Service Time: 5
+
+Queue 4:
+Client ID: 10, Arrival Time: 18, Service Time: 3
+Client ID: 30, Arrival Time: 23, Service Time: 3
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 6
+
+
+Time: 25
+Waiting Clients:
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 16, Arrival Time: 15, Service Time: 1
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 26, Arrival Time: 23, Service Time: 4
+
+Queue 2:
+Client ID: 36, Arrival Time: 19, Service Time: 4
+
+Queue 3:
+Client ID: 50, Arrival Time: 18, Service Time: 1
+Client ID: 33, Arrival Time: 21, Service Time: 5
+
+Queue 4:
+Client ID: 10, Arrival Time: 18, Service Time: 2
+Client ID: 30, Arrival Time: 23, Service Time: 3
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 5
+
+
+Time: 26
+Waiting Clients:
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 40, Arrival Time: 27, Service Time: 7
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 32, Arrival Time: 21, Service Time: 1
+Client ID: 26, Arrival Time: 23, Service Time: 4
+
+Queue 2:
+Client ID: 36, Arrival Time: 19, Service Time: 3
+
+Queue 3:
+Client ID: 33, Arrival Time: 21, Service Time: 5
+
+Queue 4:
+Client ID: 10, Arrival Time: 18, Service Time: 1
+Client ID: 30, Arrival Time: 23, Service Time: 3
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 4
+
+
+Time: 27
+Waiting Clients:
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 26, Arrival Time: 23, Service Time: 4
+
+Queue 2:
+Client ID: 36, Arrival Time: 19, Service Time: 2
+Client ID: 13, Arrival Time: 27, Service Time: 7
+
+Queue 3:
+Client ID: 33, Arrival Time: 21, Service Time: 4
+
+Queue 4:
+Client ID: 30, Arrival Time: 23, Service Time: 3
+Client ID: 40, Arrival Time: 27, Service Time: 7
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 3
+Client ID: 44, Arrival Time: 27, Service Time: 6
+
+
+Time: 28
+Waiting Clients:
+Client ID: 4, Arrival Time: 29, Service Time: 7
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 26, Arrival Time: 23, Service Time: 3
+
+Queue 2:
+Client ID: 36, Arrival Time: 19, Service Time: 1
+Client ID: 13, Arrival Time: 27, Service Time: 7
+
+Queue 3:
+Client ID: 33, Arrival Time: 21, Service Time: 3
+
+Queue 4:
+Client ID: 30, Arrival Time: 23, Service Time: 2
+Client ID: 40, Arrival Time: 27, Service Time: 7
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 2
+Client ID: 44, Arrival Time: 27, Service Time: 6
+
+
+Time: 29
+Waiting Clients:
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 26, Arrival Time: 23, Service Time: 2
+Client ID: 4, Arrival Time: 29, Service Time: 7
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 7
+Client ID: 28, Arrival Time: 29, Service Time: 3
+
+Queue 3:
+Client ID: 33, Arrival Time: 21, Service Time: 2
+Client ID: 5, Arrival Time: 29, Service Time: 6
+
+Queue 4:
+Client ID: 30, Arrival Time: 23, Service Time: 1
+Client ID: 40, Arrival Time: 27, Service Time: 7
+
+Queue 5:
+Client ID: 45, Arrival Time: 19, Service Time: 1
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 30
+Waiting Clients:
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 26, Arrival Time: 23, Service Time: 1
+Client ID: 4, Arrival Time: 29, Service Time: 7
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 6
+Client ID: 28, Arrival Time: 29, Service Time: 3
+
+Queue 3:
+Client ID: 33, Arrival Time: 21, Service Time: 1
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 47, Arrival Time: 30, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 7
+
+Queue 5:
+Client ID: 44, Arrival Time: 27, Service Time: 6
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 31
+Waiting Clients:
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 7
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 5
+Client ID: 28, Arrival Time: 29, Service Time: 3
+
+Queue 3:
+Client ID: 5, Arrival Time: 29, Service Time: 6
+Client ID: 47, Arrival Time: 30, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 6
+Client ID: 37, Arrival Time: 31, Service Time: 5
+
+Queue 5:
+Client ID: 44, Arrival Time: 27, Service Time: 5
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 32
+Waiting Clients:
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 6
+Client ID: 9, Arrival Time: 32, Service Time: 2
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 4
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 5, Arrival Time: 29, Service Time: 5
+Client ID: 47, Arrival Time: 30, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 5
+Client ID: 37, Arrival Time: 31, Service Time: 5
+
+Queue 5:
+Client ID: 44, Arrival Time: 27, Service Time: 4
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 33
+Waiting Clients:
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 5
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 22, Arrival Time: 33, Service Time: 5
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 3
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 5, Arrival Time: 29, Service Time: 4
+Client ID: 47, Arrival Time: 30, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 4
+Client ID: 37, Arrival Time: 31, Service Time: 5
+
+Queue 5:
+Client ID: 44, Arrival Time: 27, Service Time: 3
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 34
+Waiting Clients:
+Client ID: 18, Arrival Time: 35, Service Time: 7
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 4
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 22, Arrival Time: 33, Service Time: 5
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 2
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 5, Arrival Time: 29, Service Time: 3
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 35, Arrival Time: 34, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 3
+Client ID: 37, Arrival Time: 31, Service Time: 5
+
+Queue 5:
+Client ID: 44, Arrival Time: 27, Service Time: 2
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 35
+Waiting Clients:
+Client ID: 19, Arrival Time: 36, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 3
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 22, Arrival Time: 33, Service Time: 5
+
+Queue 2:
+Client ID: 13, Arrival Time: 27, Service Time: 1
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 5, Arrival Time: 29, Service Time: 2
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 35, Arrival Time: 34, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 2
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 44, Arrival Time: 27, Service Time: 1
+Client ID: 31, Arrival Time: 29, Service Time: 7
+
+
+Time: 36
+Waiting Clients:
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 2
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 22, Arrival Time: 33, Service Time: 5
+
+Queue 2:
+Client ID: 28, Arrival Time: 29, Service Time: 3
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 5, Arrival Time: 29, Service Time: 1
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 40, Arrival Time: 27, Service Time: 1
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 7
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 37
+Waiting Clients:
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 29, Service Time: 1
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 2, Arrival Time: 37, Service Time: 1
+
+Queue 2:
+Client ID: 28, Arrival Time: 29, Service Time: 2
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 47, Arrival Time: 30, Service Time: 3
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 37, Arrival Time: 31, Service Time: 5
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 6
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 38
+Waiting Clients:
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 9, Arrival Time: 32, Service Time: 2
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 2, Arrival Time: 37, Service Time: 1
+
+Queue 2:
+Client ID: 28, Arrival Time: 29, Service Time: 1
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 47, Arrival Time: 30, Service Time: 2
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 37, Arrival Time: 31, Service Time: 4
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 5
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 39
+Waiting Clients:
+Client ID: 34, Arrival Time: 40, Service Time: 3
+Servers:
+Queue 1:
+Client ID: 9, Arrival Time: 32, Service Time: 1
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 2, Arrival Time: 37, Service Time: 1
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 7
+
+Queue 3:
+Client ID: 47, Arrival Time: 30, Service Time: 1
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 37, Arrival Time: 31, Service Time: 3
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 4
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 40
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 22, Arrival Time: 33, Service Time: 5
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 6
+
+Queue 3:
+Client ID: 35, Arrival Time: 34, Service Time: 3
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 37, Arrival Time: 31, Service Time: 2
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 3
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 41
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 22, Arrival Time: 33, Service Time: 4
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 5
+
+Queue 3:
+Client ID: 35, Arrival Time: 34, Service Time: 2
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 37, Arrival Time: 31, Service Time: 1
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 2
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 42
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 22, Arrival Time: 33, Service Time: 3
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 4
+
+Queue 3:
+Client ID: 35, Arrival Time: 34, Service Time: 1
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 7
+
+Queue 5:
+Client ID: 31, Arrival Time: 29, Service Time: 1
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 43
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 22, Arrival Time: 33, Service Time: 2
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 3
+
+Queue 3:
+Client ID: 19, Arrival Time: 36, Service Time: 3
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 6
+
+Queue 5:
+Client ID: 41, Arrival Time: 36, Service Time: 3
+
+
+Time: 44
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 22, Arrival Time: 33, Service Time: 1
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 2
+
+Queue 3:
+Client ID: 19, Arrival Time: 36, Service Time: 2
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 5
+
+Queue 5:
+Client ID: 41, Arrival Time: 36, Service Time: 2
+
+
+Time: 45
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 2, Arrival Time: 37, Service Time: 1
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+Client ID: 43, Arrival Time: 32, Service Time: 1
+
+Queue 3:
+Client ID: 19, Arrival Time: 36, Service Time: 1
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 4
+
+Queue 5:
+Client ID: 41, Arrival Time: 36, Service Time: 1
+
+
+Time: 46
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 34, Arrival Time: 40, Service Time: 3
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 3
+
+Queue 5:
+CLosed
+
+
+Time: 47
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 34, Arrival Time: 40, Service Time: 2
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 2
+
+Queue 5:
+CLosed
+
+
+Time: 48
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 34, Arrival Time: 40, Service Time: 1
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+Client ID: 18, Arrival Time: 35, Service Time: 1
+
+Queue 5:
+CLosed
+
+
+Time: 49
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 50
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 51
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 52
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 53
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 54
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 55
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 56
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 57
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 58
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 59
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Time: 60
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+Queue 3:
+CLosed
+
+Queue 4:
+CLosed
+
+Queue 5:
+CLosed
+
+
+Average waiting time: 3.68
+Average service time: 4.28
+Peak hour: 15

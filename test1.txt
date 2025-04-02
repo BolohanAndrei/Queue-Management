@@ -1,0 +1,686 @@
+Time: 0
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 1
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 2
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 3
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 4
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 5
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 6
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 7
+Waiting Clients:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 8
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 8, Service Time: 4
+
+Queue 2:
+CLosed
+
+
+Time: 9
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 8, Service Time: 3
+
+Queue 2:
+CLosed
+
+
+Time: 10
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 8, Service Time: 3
+
+Queue 2:
+CLosed
+
+
+Time: 11
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 4, Arrival Time: 8, Service Time: 2
+
+Queue 2:
+CLosed
+
+
+Time: 12
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 13
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 14
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 15
+Waiting Clients:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 16
+Waiting Clients:
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 16, Service Time: 3
+
+Queue 2:
+CLosed
+
+
+Time: 17
+Waiting Clients:
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 16, Service Time: 2
+
+Queue 2:
+CLosed
+
+
+Time: 18
+Waiting Clients:
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 3, Arrival Time: 16, Service Time: 1
+
+Queue 2:
+CLosed
+
+
+Time: 19
+Waiting Clients:
+Client ID: 1, Arrival Time: 20, Service Time: 4
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+
+Queue 2:
+CLosed
+
+
+Time: 20
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 1, Arrival Time: 20, Service Time: 4
+
+Queue 2:
+CLosed
+
+
+Time: 21
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 1, Arrival Time: 20, Service Time: 4
+
+Queue 2:
+CLosed
+
+
+Time: 22
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 1, Arrival Time: 20, Service Time: 2
+
+Queue 2:
+CLosed
+
+
+Time: 23
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+Client ID: 1, Arrival Time: 20, Service Time: 1
+
+Queue 2:
+CLosed
+
+
+Time: 24
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 25
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 26
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 27
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 28
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 29
+Waiting Clients:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 30
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+
+Queue 2:
+CLosed
+
+
+Time: 31
+Waiting Clients:
+Servers:
+Queue 1:
+Client ID: 2, Arrival Time: 30, Service Time: 2
+
+Queue 2:
+CLosed
+
+
+Time: 32
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 33
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 34
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 35
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 36
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 37
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 38
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 39
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 40
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 41
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 42
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 43
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 44
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 45
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 46
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 47
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 48
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 49
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 50
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 51
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 52
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 53
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 54
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 55
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 56
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 57
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 58
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 59
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Time: 60
+Waiting Clients:
+Servers:
+Queue 1:
+CLosed
+
+Queue 2:
+CLosed
+
+
+Average waiting time: 0.0
+Average service time: 3.25
+Peak hour: 8
