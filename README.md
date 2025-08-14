@@ -1,97 +1,65 @@
-<<<<<<< HEAD
-# Queue-Management
-=======
-# PT2025_30226_Bolohan_Andrei_Assingment_2
+Queues Management Application
+<br>
 
+📌 Problem Statement
+In many real-world scenarios, such as supermarkets or call centers, improper queue management can lead to high client waiting times and inefficient resource usage. This project addresses this problem by designing and implementing a simulation that minimizes client waiting time in a queue-based system.
 
+<br>
 
-## Getting started
+🎯 Main Objective
+The main objective of this application is to analyze queuing-based systems by:
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Simulating a series of N clients arriving for service, entering Q queues, waiting, being served, and leaving the queues.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Computing and displaying key performance metrics like average waiting time, average service time, and peak hour for the simulation.
 
-## Add your files
+<br>
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+🔍 Sub-Objectives
+Analyze the problem and identify both functional and non-functional requirements.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/pt2025_30226_bolohan_andrei/pt2025_30226_bolohan_andrei_assingment_2.git
-git branch -M main
-git push -uf origin main
-```
+Design a structured, multi-threaded simulation application.
 
-## Integrate with your tools
+Implement the application using Java, incorporating a graphical user interface.
 
-- [ ] [Set up project integrations](https://gitlab.com/pt2025_30226_bolohan_andrei/pt2025_30226_bolohan_andrei_assingment_2/-/settings/integrations)
+Test the application with various data sets to ensure its reliability and performance.
 
-## Collaborate with your team
+<br>
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+🚀 Features
+Multithreaded Simulation: The application uses multiple threads—one for the simulation manager and one for each queue—to process clients in parallel.
 
-## Test and Deploy
+Dynamic Client Generation: Clients are randomly generated with a unique ID, arrival time, and service time based on user-defined parameters.
 
-Use the built-in continuous integration in GitLab.
+Intelligent Scheduling: A scheduler is responsible for distributing clients to the queue with the shortest waiting time, aiming to optimize the overall process.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+Graphical User Interface (GUI): A user-friendly interface allows for simulation setup and displays the real-time evolution of the queues.
 
-***
+Comprehensive Logging: A log of events is generated, showing the status of waiting clients and queues throughout the simulation.
 
-# Editing this README
+Results Display: The final simulation results, including average waiting time and peak hour, are displayed in the GUI and/or a log file.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+<br>
 
-## Suggestions for a good README
+🛠️ Technologies Used
+Java: The core programming language for the application logic.
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Java Swing: Used for creating the graphical user interface.
 
-## Name
-Choose a self-explaining name for your project.
+Multithreading: Utilizes Java's threading and synchronization mechanisms (BlockingQueue, AtomicInteger, synchronized blocks) to ensure thread safety and parallel processing.
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Design Patterns: The project implements the Strategy pattern for selecting the client dispatch policy (e.g., shortest queue, shortest time).
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+<br>
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+📖 Getting Started
+Clone the repository:
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+git clone https://github.com/your-username/your-repository-name.git
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+Compile and run the application: You will need a Java Development Kit (JDK) installed to build and run the project.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+<br>
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
->>>>>>> c43dfb8 (final)
+📌 Contribution
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
