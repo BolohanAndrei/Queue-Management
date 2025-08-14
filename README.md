@@ -55,7 +55,7 @@ Design Patterns: The project implements the Strategy pattern for selecting the c
 📖 Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/BolohanAndrei/Queue-Management.git
 
 Compile and run the application: You will need a Java Development Kit (JDK) installed to build and run the project.
 
